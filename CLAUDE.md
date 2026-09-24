@@ -17,5 +17,5 @@ A knowledge base for Active Directory / Entra ID threat hunting, not a software 
 ## Editing notes
 
 - Content is offensive/defensive security material for an authorized lab. Keep new material tied to a MITRE technique and the matching Event ID, consistent with existing files.
-- `.DS_Store` files are committed despite `.gitignore`; don't add more.
+- The BloodHound zips are all from the lab domain `PRIME.PRI`.
 - Don't modify the BloodHound zips; add new collections as new timestamped zips.
